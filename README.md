@@ -1,1 +1,1 @@
-# Cell_Colony_Mobility_Statistics
+This MATLAB code simulates the active random walk (ARW) dynamics of cell colonies in a viscous fluid, accounting for internal cellular forces, angular orientations, stochastic fluctuations, and hydrodynamic drag. It compares the simluations with asymptotic analytical results. The goal is to examine how colony size affects speed and diffusion.
